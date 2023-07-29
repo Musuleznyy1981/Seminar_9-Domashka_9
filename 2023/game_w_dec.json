@@ -1,0 +1,42 @@
+[
+    {
+        "args": [
+            10,
+            3
+        ],
+        "kwargs": {},
+        "result": true
+    },
+    {
+        "args": [
+            10,
+            3
+        ],
+        "kwargs": {},
+        "result": false
+    },
+    {
+        "args": [
+            10,
+            3
+        ],
+        "kwargs": {},
+        "result": false
+    },
+    {
+        "args": [
+            20,
+            7
+        ],
+        "kwargs": {},
+        "result": false
+    },
+    {
+        "args": [
+            200,
+            97
+        ],
+        "kwargs": {},
+        "result": false
+    }
+]
